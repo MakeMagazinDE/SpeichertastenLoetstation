@@ -10,7 +10,7 @@ Maker Media GmbH
 
 **Kann man eine gute Lötstation noch besser machen? Ja, es geht und kostet Sie gerade einmal 10 Euro. Mit dem kleinen Umbau und einem Arduino rüsten Sie Speichertasten für Ihre wichtigsten Löttemperaturen nach und sparen so mehrere hundert Euro.**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/Aufmacher.jpg)
 
 Hier gibt es den Code für den Lötstations-Hack im Ordner _[src](./src)_.
 
